@@ -1,4 +1,4 @@
-#brute force on the Directories :: Abdallah Elsokary
+#brute force on the Directories :: Abdallah Elsokary :: Mohamed Azab :: Mohamed Mostafa :: Ahmed Fawzy :: Shihab El-din Ahmed
 try:
     import socket , requests , sys , time , threading , sqlite3 , os.path
 
